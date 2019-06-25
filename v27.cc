@@ -1,3 +1,9 @@
+/*
+2019.6.24
+n皇后问题
+*/
+
+
 #include<iostream>  
 using namespace std;  
    
