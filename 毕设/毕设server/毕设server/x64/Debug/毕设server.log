@@ -1,0 +1,15 @@
+﻿生成启动时间为 2020/4/24 15:56:27。
+     1>项目“C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\毕设server\毕设server.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\MySQL\MySQL Server 8.0\include" /Zi /nologo /W3 /WX- /sdl /Od /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt plserver.cpp
+         plserver.cpp
+     1>plserver.cpp(201): warning C4129: “*”: 不可识别的字符转义序列
+     1>plserver.cpp(83): warning C4101: “sendData”: 未引用的局部变量
+       Link:
+         D:\VS\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\x64\Debug\毕设server.exe" /INCREMENTAL /NOLOGO libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\x64\Debug\毕设server.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\x64\Debug\毕设server.lib" /MACHINE:X64 x64\Debug\plserver.obj
+         毕设server.vcxproj -> C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\x64\Debug\毕设server.exe
+     1>已完成生成项目“C:\Users\lenovo\Desktop\毕设\毕设源码\毕设server\毕设server\毕设server.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.35
